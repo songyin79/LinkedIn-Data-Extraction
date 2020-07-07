@@ -19,6 +19,7 @@ Code
 --I have implemented 40% of a python script to directly extract name, degree, work experience, and connections from a LinkedIn page. Code can be viewed here: https://github.com/songyin79/LinkedIn-Data-Extraction/blob/master/linkedIn_extract.py 
 
 --Sample output of Kevin Boudreau’s LinkedIn:
+
 {'connects': '500+',
  'fname': 'Kevin',
  'grad': 'Master of Arts - MA',

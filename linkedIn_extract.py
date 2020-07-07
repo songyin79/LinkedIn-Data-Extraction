@@ -186,6 +186,8 @@ def setup():
 
     #create login parameters
     login_information = {
+        # this account is fake--it's for test only
+        # it makes sure you have access to the linkedin page
         'session_key':'songyin79@qq.com',
         'session_password':'testuseonly',
         'loginCsrfParam': csrf
